@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\PostController;
+use App\Http\Controllers\TipoDocumentoController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -14,6 +15,10 @@ Route::post('register', [AuthController::class, 'register']);
 
 // ENDPOINT PARA INICIAR SESSION
 Route::post('login', [AuthController::class, 'login']);
+
+
+// ENDPOINT PARA LISTAR LOS TIPOS DE DOCUMENTO
+Route::get('documentos', [TipoDocumentoController::class, 'index']);
 
 
 // RUTAS PROTEGIDAS
