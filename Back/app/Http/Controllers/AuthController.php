@@ -52,6 +52,8 @@ class AuthController extends Controller
             'password' => Hash::make($request->password)
         ]);
 
+        \Log::info('Usuario creado correctamente', ['user' => $user]);
+
         // RESPUESTA AL SERVIDOR
         return response()->json([
             'message' => 'USUARIO AGREGADO CON EXITO',
