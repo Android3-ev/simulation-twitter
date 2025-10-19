@@ -13,7 +13,7 @@
 
 <h1>¡Ejecuta el proyecto tu mismo!</h1>
 <h2>Clona el proyecto:</h2>
-<pre><code>git clone </code></pre>
+<pre><code>git clone https://github.com/Android3-ev/simulation-twitter.git</code></pre>
 
 <h2>Ejecuta el servidor:</h2>
 <p>Descarga las dependencias necesarias:</p>
