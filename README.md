@@ -33,5 +33,5 @@
 <h1>Visita la pagina</h1>
 <a href="https://front-twitter-laravel.vercel.app/">¡Entra aqui!</a>
 
-
+<h1></h1>
 <p align="center">Hecho por <a href="https://github.com/Android3-ev">Andres Echeverria</a> y <a href="https://github.com/SaraCuellar89">Sara Cuellar</a></p>
