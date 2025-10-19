@@ -34,4 +34,4 @@
 <a href="https://front-twitter-laravel.vercel.app/">¡Entra aqui!</a>
 
 
-<p align="center">Hecho por <a href="https://github.com/Android3-ev/simulation-twitter.git">Andres Echeverria</a> y <a href="https://github.com/SaraCuellar89">Sara Cuellar</a></p>
+<p align="center">Hecho por <a href="https://github.com/Android3-ev">Andres Echeverria</a> y <a href="https://github.com/SaraCuellar89">Sara Cuellar</a></p>
